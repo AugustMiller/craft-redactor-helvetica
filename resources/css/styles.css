@@ -1,0 +1,19 @@
+.redactor-box {}
+
+.redactor-box .redactor-styles {
+  font-family: Helvetica, Arial;
+}
+
+.redactor-box .redactor-styles h1,
+.redactor-box .redactor-styles h2,
+.redactor-box .redactor-styles h3,
+.redactor-box .redactor-styles h4,
+.redactor-box .redactor-styles h5,
+.redactor-box .redactor-styles h6 {
+  font-family: Helvetica, Arial;
+}
+
+ul.redactor-dropdown {
+  font-family: Helvetica, Arial;
+  max-height: 400px;
+}
